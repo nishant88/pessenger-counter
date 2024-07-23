@@ -12,5 +12,4 @@ function save() {
     saveEl.textContent += countStr;
     countEl.textContent = 0;
     count = 0;
-    console.log("Test")
 }
